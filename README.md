@@ -8,19 +8,19 @@
 
 ## Application Sample
 * main
-<p align="center"><img src="/public/capture_main01.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60168680/98133408-e822fc00-1f00-11eb-9831-4c610991f6a4.png" width="80%" height="80%"></p>
 
-* 로그인 후
-<p align="center"><img src="/public/capture_main02.png" width="80%" height="80%"></p>
+* 로그인 상태 페이지
+<p align="center"><img src="https://user-images.githubusercontent.com/60168680/98133416-ea855600-1f00-11eb-92a1-78f8563150e7.png" width="80%" height="80%"></p>
 
 * 글 상세페이지
-<p align="center"><img src="/public/capture_post.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60168680/98133426-ef4a0a00-1f00-11eb-9511-507e22c49290.png" width="80%" height="80%"></p>
 
 * 댓글 기능
-<p align="center"><img src="/public/capture_comment.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60168680/98133430-f244fa80-1f00-11eb-9762-9e044bed5883.png" width="80%" height="80%"></p>
 
 * 알 기능
-<p align="center"><img src="/public/cpature_notification.png" width="80%" height="80%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60168680/98133438-f4a75480-1f00-11eb-9aa4-1e607cfbb2ab.png" width="80%" height="80%"></p>
 
 ## Run Application
 #### install meteor
